@@ -1,0 +1,65 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#nav-bar
+{
+position: sticky;
+top: 0;
+z-index: 10;
+}
+
+.navbar-brand img
+{
+height: 40px;
+padding-left: 30px;
+
+}
+.navbar-nav li
+{
+padding: 0 10px;
+}
+
+.navbar-nav li a
+{
+float: right;
+text-align: left;
+}
+#nav-bar ul li a:hover
+{
+color:#F3E5C8!important;
+}
+.navbar
+{
+background:#0A3641;
+}
+.navbar-toggler
+{
+    border: none!important;
+}
+.nav-link
+{
+color:white!important;
+font-weight: 600;
+font size: 16px;
+}
+
+.carousel-caption 
+{
+top: 50%;
+transform: translateY(-50%)
+bottom:initial!important;
+}
+
+.carousel-caption h5
+{
+color:#F3E5C8;
+font: 42px;
+}
+
+
+
+
+
+
